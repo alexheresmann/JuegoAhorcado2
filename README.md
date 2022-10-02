@@ -1,1 +1,2 @@
-# JuegoAhorcado2
+# juegoahocado.github.io
+Challenge Alura
